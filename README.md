@@ -101,5 +101,5 @@ Survey_Analysis_2025/
 
 Junior Data Analyst
 
-[GitHub](https://github.com/viktoriia-kozak)
+
 
